@@ -9,6 +9,6 @@
 - ✒ I mainly develop in JS/TS, Python, C# and Java.
 - 🔒 I prefer making private projects :)
 
-[website]: https://pluutoon.xyz
+[website]: https://www.pluutoon.xyz
 [website2]: https://neodyne.xyz
 [twitter]: https://twitter.com/itspluutoon
