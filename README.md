@@ -1,6 +1,5 @@
 ### Hi there, I'm [pluutoon][website] 👋 
 
-[![Website](https://img.shields.io/website?label=pluutoon.xyz&style=for-the-badge&url=https%3A%2F%pluutoon.xyz)](https://www.pluutoon.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itspluutoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/itspluutoon)
 
 ## I'm a Software Engineer.
