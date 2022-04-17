@@ -13,4 +13,4 @@
 [website2]: https://neodyne.xyz
 [twitter]: https://twitter.com/itspluutoon
 
-![pluutoon's stats](https://github-readme-stats.vercel.app/api?username=pluutoon&theme=algolia&count_private=true&show_icons=true)
+![pluutoon's stats](https://github-readme-stats.vercel.app/api?username=pluutoon&theme=cobalt&show_icons=true)
