@@ -5,7 +5,7 @@
 ## I'm a Software Engineer.
 
 - 🎓 CEO of [neodyne][website2]
-- 🧠 I’m currently learning C++, C, Go and Kotlin.
+- 🧠 I’m currently learning C++, C, Go, Rust and Kotlin.
 - ✒ I mainly develop in JS/TS, Python, C# and Java.
 - 🔒 I prefer making private projects :)
 
