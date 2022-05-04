@@ -9,8 +9,6 @@
 - ✒ I mainly develop in JS/TS, Python, C#, Java, Lua, and PHP (less).
 - 🔒 I prefer making private projects :)
 
-[website]: https://neodyne.xyz
-[website2]: https://uwu-private.online
-[twitter]: https://twitter.com/itspluutoon
+[[neodyne](https://neodyne.xyz) | [my image host](https://uwu-private.online)]
 
 ![pluutoon's stats](https://github-readme-stats.vercel.app/api?username=pluutoon&theme=tokyonight&count_private=true&show_icons=true)
