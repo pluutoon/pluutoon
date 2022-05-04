@@ -6,11 +6,11 @@
 
 - 🎓 CEO of [neodyne][website2]
 - 🧠 I’m currently learning C++, C, Go, Rust and Kotlin.
-- ✒ I mainly develop in JS/TS, Python, C# and Java.
+- ✒ I mainly develop in JS/TS, Python, C#, Java, Lua, and PHP (less).
 - 🔒 I prefer making private projects :)
 
-[website]: https://www.pluutoon.xyz
-[website2]: https://neodyne.xyz
+[website]: https://neodyne.xyz
+[website2]: https://uwu-private.online
 [twitter]: https://twitter.com/itspluutoon
 
 ![pluutoon's stats](https://github-readme-stats.vercel.app/api?username=pluutoon&theme=tokyonight&count_private=true&show_icons=true)
