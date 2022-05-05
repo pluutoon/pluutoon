@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer.
 
-- 🎓 CEO of [neodyne][website2]
+- 🎓 CEO of neodyne, uwu imageHost.
 - 🧠 I’m currently learning C++, C, Go, Rust and Kotlin.
 - ✒ I mainly develop in JS/TS, Python, C#, Java, Lua, and PHP (less).
 - 🔒 I prefer making private projects :)
