@@ -1,4 +1,4 @@
-### Hi there, I'm [pluutoon][website] 👋 
+### Hi there, I'm pluutoon 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/itspluutoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/itspluutoon)
 
