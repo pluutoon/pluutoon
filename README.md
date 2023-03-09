@@ -1,8 +1,6 @@
-### Hi there, I'm pluutoon 👋 
+## Hi there, I'm [pluutoon](https://pluutoon.me) 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/itspluutoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/itspluutoon)
-
-## I'm a Software Engineer.
+### I'm a Software Engineer:
 
 - 🎓 CEO of neodyne, jupiter image host.
 - 🧠 I’m currently learning Rust and Kotlin.
