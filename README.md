@@ -4,10 +4,10 @@
 
 ## I'm a Software Engineer.
 
-- 🎓 CEO of neodyne, uwu imageHost.
-- 🧠 I’m currently learning C++, C, Go, Rust and Kotlin.
-- ✒ I mainly develop in JS/TS, Python, C#, Java, Lua, and PHP (less).
-- 🔒 I prefer making private projects :)
+- 🎓 CEO of neodyne, jupiter image host.
+- 🧠 I’m currently learning Rust and Kotlin.
+- ✒ I usually use JS/TS, Python, C#, Go, C++/C, Java, Lua, and PHP (less).
+- 🔒 I make private projects, for everyone or for me.
 
 [[neodyne](https://neodyne.xyz) | [my image host](https://uwu-private.online)]
 
